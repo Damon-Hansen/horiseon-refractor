@@ -6,8 +6,3 @@ This project was designed to make us go into a webpage's coding structure (html 
 
 <a href="https://damon-hansen.github.io/horiseon-refractor/">Click here for webpage!</a>
 
-
-
-
-
-
